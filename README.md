@@ -3,20 +3,20 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Laravel+Specialist;Web+Architect;Open+Source+Contributor;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Laravel+Uzmanı;Web+Mimarı;Açık+Kaynak+Katkıcısı;Problem+Çözücü" alt="Typing SVG" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=PrivlesDev&label=Profile%20views&color=00D4AA&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Status-Available%20for%20Work-00D4AA?style=for-the-badge&logo=github" alt="Status" />
-  <img src="https://img.shields.io/badge/Location-Turkey-00D4AA?style=for-the-badge&logo=location" alt="Location" />
+  <img src="https://komarev.com/ghpvc/?username=PrivlesDev&label=Profil%20Görüntülenme&color=00D4AA&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Durum-İş%20İçin%20Müsait-00D4AA?style=for-the-badge&logo=github" alt="Status" />
+  <img src="https://img.shields.io/badge/Konum-Türkiye-00D4AA?style=for-the-badge&logo=location" alt="Location" />
 </div>
 
 ---
 
-## 🚀 About Me
+## 🚀 Hakkımda
 
 <div align="center">
   <img src="https://github.com/PrivlesDev/PrivlesDev/blob/main/assets/coding.gif?raw=true" width="400" alt="Coding GIF" />
@@ -24,36 +24,36 @@
 
 <br>
 
-> *"Turning coffee into code, one commit at a time."*
+> *"Kahveyi koda dönüştürüyorum, her commit'te bir adım daha."*
 
-I'm **Enes BEYHAN**, a passionate **Full Stack Developer** with expertise in modern web technologies. I specialize in creating robust, scalable applications using **Laravel** and **PHP** ecosystem, while continuously exploring new technologies to enhance my development skills.
+Ben **Enes BEYHAN**, modern web teknolojilerinde uzmanlaşmış tutkulu bir **Full Stack Developer**'ım. **Laravel** ve **PHP** ekosistemini kullanarak sağlam, ölçeklenebilir uygulamalar oluşturmada uzmanlaştım ve geliştirme becerilerimi geliştirmek için sürekli yeni teknolojileri keşfediyorum.
 
-### 🎯 Core Focus Areas
-- 🌐 **Full-Stack Web Development**
-- 📱 **Responsive & Mobile-First Design**
-- 🗄️ **Database Architecture & Optimization**
-- 🔧 **RESTful API Development**
-- 🎨 **User Experience & Interface Design**
-- ⚡ **Performance Optimization**
+### 🎯 Ana Odak Alanlarım
+- 🌐 **Full-Stack Web Geliştirme**
+- 📱 **Responsive & Mobil Öncelikli Tasarım**
+- 🗄️ **Veritabanı Mimarisi & Optimizasyonu**
+- 🔧 **RESTful API Geliştirme**
+- 🎨 **Kullanıcı Deneyimi & Arayüz Tasarımı**
+- ⚡ **Performans Optimizasyonu**
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Teknoloji Stack'im
 
 <div align="center">
 
-### 💻 **Backend Development**
+### 💻 **Backend Geliştirme**
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 🎨 **Frontend Development**
+### 🎨 **Frontend Geliştirme**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### 🔧 **Development Tools**
+### 🔧 **Geliştirme Araçları**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
@@ -61,11 +61,11 @@ I'm **Enes BEYHAN**, a passionate **Full Stack Developer** with expertise in mod
 
 </div>
 
-## 📊 GitHub Analytics
+## 📊 GitHub İstatistiklerim
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PrivlesDev&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&custom_title=GitHub%20Statistics" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrivlesDev&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PrivlesDev&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&custom_title=GitHub%20İstatistikleri" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrivlesDev&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="En Çok Kullanılan Diller" width="49%" />
 </div>
 
 <div align="center">
@@ -73,75 +73,75 @@ I'm **Enes BEYHAN**, a passionate **Full Stack Developer** with expertise in mod
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PrivlesDev&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PrivlesDev&theme=react-dark&hide_border=true&area=true" alt="Aktivite Grafiği" />
 </div>
 
-## 🚀 Featured Projects
+## 🚀 Öne Çıkan Projelerim
 
 <div align="center">
 
-### 🌟 **Responsive Web Application**
+### 🌟 **Responsive Web Uygulaması**
 [![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com)
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://php.net)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://mysql.com)
 
-**Modern Laravel-based web application with responsive design and mobile compatibility**
+**Responsive tasarım ve mobil uyumluluğa sahip modern Laravel tabanlı web uygulaması**
 
-- ✅ **Full-Stack Development** with Laravel framework
-- ✅ **Responsive Design** for all device types
-- ✅ **User-Friendly Interface** with modern UX
-- ✅ **Database Optimization** for better performance
-- ✅ **API Integration** for seamless functionality
+- ✅ **Full-Stack Geliştirme** Laravel framework ile
+- ✅ **Responsive Tasarım** tüm cihaz türleri için
+- ✅ **Kullanıcı Dostu Arayüz** modern UX ile
+- ✅ **Veritabanı Optimizasyonu** daha iyi performans için
+- ✅ **API Entegrasyonu** sorunsuz işlevsellik için
 
 </div>
 
-### 🔧 **Other Notable Projects**
-- 🌐 **Web Development Projects** - Custom solutions for various clients
-- 🔌 **API Development** - RESTful services and integrations
-- 🗄️ **Database Optimization** - Performance tuning and query optimization
-- 📱 **Mobile-First Applications** - Responsive and adaptive designs
+### 🔧 **Diğer Önemli Projelerim**
+- 🌐 **Web Geliştirme Projeleri** - Çeşitli müşteriler için özel çözümler
+- 🔌 **API Geliştirme** - RESTful servisler ve entegrasyonlar
+- 🗄️ **Veritabanı Optimizasyonu** - Performans ayarlama ve sorgu optimizasyonu
+- 📱 **Mobil Öncelikli Uygulamalar** - Responsive ve adaptif tasarımlar
 
-## 🎯 2024-2026 Roadmap
+## 🎯 2026 Hedeflerim
 
 <div align="center">
 
-| 🎯 **Learning Goals** | 📅 **Timeline** | 🏆 **Status** |
+| 🎯 **Öğrenme Hedefleri** | 📅 **Zaman Çizelgesi** | 🏆 **Durum** |
 |:---:|:---:|:---:|
-| **Swift** - iOS Development | Q1-Q2 2024 | 🔄 In Progress |
-| **Java** - Enterprise Apps | Q2-Q3 2024 | 📋 Planned |
-| **Docker** - Containerization | Q3-Q4 2024 | 📋 Planned |
-| **Laravel 11** - Latest Features | Q1 2024 | ✅ Completed |
-| **Vue.js** - Frontend Framework | Q2 2024 | 📋 Planned |
-| **AWS** - Cloud Services | Q4 2024 | 📋 Planned |
-| **Open Source** - Contributions | Ongoing | 🔄 Active |
+| **Swift** - iOS Geliştirme | Q1-Q2 2025 | 🔄 Devam Ediyor |
+| **Java** - Kurumsal Uygulamalar | Q2-Q3 2025 | 📋 Planlandı |
+| **Docker** - Konteynerleştirme | Q3-Q4 2025 | 📋 Planlandı |
+| **Laravel 11** - En Son Özellikler | Q1 2025 | ✅ Tamamlandı |
+| **Vue.js** - Frontend Framework | Q2 2025 | 📋 Planlandı |
+| **AWS** - Bulut Servisleri | Q4 2025 | 📋 Planlandı |
+| **Açık Kaynak** - Katkılar | Sürekli | 🔄 Aktif |
 
 </div>
 
-### 🚀 **Current Focus Areas**
-- 🍎 **iOS Development** with Swift
-- ☕ **Enterprise Java** applications
-- 🐳 **Docker** containerization
-- ☁️ **Cloud Architecture** with AWS
-- 🌐 **Modern Frontend** with Vue.js
+### 🚀 **Güncel Odak Alanlarım**
+- 🍎 **iOS Geliştirme** Swift ile
+- ☕ **Kurumsal Java** uygulamaları
+- 🐳 **Docker** konteynerleştirme
+- ☁️ **Bulut Mimarisi** AWS ile
+- 🌐 **Modern Frontend** Vue.js ile
 
-## 🤝 Let's Connect
+## 🤝 İletişim
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-00D4AA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enesbeyhan2001@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-00D4AA?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/enesbeyhan)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-00D4AA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PrivlesDev)
+[![Email](https://img.shields.io/badge/Email-İletişim-00D4AA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enesbeyhan2001@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bağlan-00D4AA?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/enesbeyhan)
+[![GitHub](https://img.shields.io/badge/GitHub-Takip%20Et-00D4AA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PrivlesDev)
 [![Website](https://img.shields.io/badge/Website-XCodeArt-00D4AA?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.xcodeart.com)
 
 </div>
 
 ---
 
-## 💡 Favorite Quote
+## 💡 Favori Sözüm
 
 <div align="center">
   
-> *"Code is like humor. When you have to explain it, it's bad."*
+> *"Kod mizah gibidir. Açıklamanız gerekiyorsa kötüdür."*
 > 
 > **- Cory House**
 
@@ -154,5 +154,5 @@ I'm **Enes BEYHAN**, a passionate **Full Stack Developer** with expertise in mod
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=PrivlesDev&label=Profile%20views&color=00D4AA&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=PrivlesDev&label=Profil%20Görüntülenme&color=00D4AA&style=for-the-badge" alt="Profile Views" />
 </div>
