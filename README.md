@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Laravel+Uzmanı;Web+Mimarı;Açık+Kaynak+Katkıcısı;Problem+Çözücü" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Web+Developer;Laravel+Specialist;Open+Source+Contributor;Problem+Solver" alt="Typing SVG" />
 </div>
 
 <br>
@@ -29,31 +29,31 @@
 Ben **Enes BEYHAN**, modern web teknolojilerinde uzmanlaşmış tutkulu bir **Full Stack Developer**'ım. **Laravel** ve **PHP** ekosistemini kullanarak sağlam, ölçeklenebilir uygulamalar oluşturmada uzmanlaştım ve geliştirme becerilerimi geliştirmek için sürekli yeni teknolojileri keşfediyorum.
 
 ### 🎯 Ana Odak Alanlarım
-- 🌐 **Full-Stack Web Geliştirme**
-- 📱 **Responsive & Mobil Öncelikli Tasarım**
-- 🗄️ **Veritabanı Mimarisi & Optimizasyonu**
-- 🔧 **RESTful API Geliştirme**
-- 🎨 **Kullanıcı Deneyimi & Arayüz Tasarımı**
-- ⚡ **Performans Optimizasyonu**
+- 🌐 **Full-Stack Web Development**
+- 📱 **Responsive & Mobile-First Design**
+- 🗄️ **Database Architecture & Optimization**
+- 🔧 **RESTful API Development**
+- 🎨 **User Experience & Interface Design**
+- ⚡ **Performance Optimization**
 
 ## 🛠️ Teknoloji Stack'im
 
 <div align="center">
 
-### 💻 **Backend Geliştirme**
+### 💻 **Backend Development**
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 🎨 **Frontend Geliştirme**
+### 🎨 **Frontend Development**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### 🔧 **Geliştirme Araçları**
+### 🔧 **Development Tools**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
@@ -87,19 +87,19 @@ Ben **Enes BEYHAN**, modern web teknolojilerinde uzmanlaşmış tutkulu bir **Fu
 
 **Responsive tasarım ve mobil uyumluluğa sahip modern Laravel tabanlı web uygulaması**
 
-- ✅ **Full-Stack Geliştirme** Laravel framework ile
-- ✅ **Responsive Tasarım** tüm cihaz türleri için
-- ✅ **Kullanıcı Dostu Arayüz** modern UX ile
-- ✅ **Veritabanı Optimizasyonu** daha iyi performans için
-- ✅ **API Entegrasyonu** sorunsuz işlevsellik için
+- ✅ **Full-Stack Development** Laravel framework ile
+- ✅ **Responsive Design** tüm cihaz türleri için
+- ✅ **User-Friendly Interface** modern UX ile
+- ✅ **Database Optimization** daha iyi performans için
+- ✅ **API Integration** sorunsuz işlevsellik için
 
 </div>
 
 ### 🔧 **Diğer Önemli Projelerim**
-- 🌐 **Web Geliştirme Projeleri** - Çeşitli müşteriler için özel çözümler
-- 🔌 **API Geliştirme** - RESTful servisler ve entegrasyonlar
-- 🗄️ **Veritabanı Optimizasyonu** - Performans ayarlama ve sorgu optimizasyonu
-- 📱 **Mobil Öncelikli Uygulamalar** - Responsive ve adaptif tasarımlar
+- 🌐 **Web Development Projects** - Çeşitli müşteriler için özel çözümler
+- 🔌 **API Development** - RESTful servisler ve entegrasyonlar
+- 🗄️ **Database Optimization** - Performans ayarlama ve sorgu optimizasyonu
+- 📱 **Mobile-First Applications** - Responsive ve adaptif tasarımlar
 
 ## 🎯 2026 Hedeflerim
 
@@ -107,21 +107,21 @@ Ben **Enes BEYHAN**, modern web teknolojilerinde uzmanlaşmış tutkulu bir **Fu
 
 | 🎯 **Öğrenme Hedefleri** | 📅 **Zaman Çizelgesi** | 🏆 **Durum** |
 |:---:|:---:|:---:|
-| **Swift** - iOS Geliştirme | Q1-Q2 2025 | 🔄 Devam Ediyor |
-| **Java** - Kurumsal Uygulamalar | Q2-Q3 2025 | 📋 Planlandı |
-| **Docker** - Konteynerleştirme | Q3-Q4 2025 | 📋 Planlandı |
-| **Laravel 11** - En Son Özellikler | Q1 2025 | ✅ Tamamlandı |
+| **Swift** - iOS Development | Q1-Q2 2025 | 🔄 Devam Ediyor |
+| **Java** - Enterprise Applications | Q2-Q3 2025 | 📋 Planlandı |
+| **Docker** - Containerization | Q3-Q4 2025 | 📋 Planlandı |
+| **Laravel 11** - Latest Features | Q1 2025 | ✅ Tamamlandı |
 | **Vue.js** - Frontend Framework | Q2 2025 | 📋 Planlandı |
-| **AWS** - Bulut Servisleri | Q4 2025 | 📋 Planlandı |
-| **Açık Kaynak** - Katkılar | Sürekli | 🔄 Aktif |
+| **AWS** - Cloud Services | Q4 2025 | 📋 Planlandı |
+| **Open Source** - Contributions | Sürekli | 🔄 Aktif |
 
 </div>
 
 ### 🚀 **Güncel Odak Alanlarım**
-- 🍎 **iOS Geliştirme** Swift ile
-- ☕ **Kurumsal Java** uygulamaları
-- 🐳 **Docker** konteynerleştirme
-- ☁️ **Bulut Mimarisi** AWS ile
+- 🍎 **iOS Development** Swift ile
+- ☕ **Enterprise Java** uygulamaları
+- 🐳 **Docker** containerization
+- ☁️ **Cloud Architecture** AWS ile
 - 🌐 **Modern Frontend** Vue.js ile
 
 ## 🤝 İletişim
