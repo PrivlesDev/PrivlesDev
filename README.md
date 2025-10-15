@@ -107,13 +107,13 @@ Ben **Enes BEYHAN**, modern web teknolojilerinde uzmanlaşmış tutkulu bir **Fu
 
 | 🎯 **Öğrenme Hedefleri** | 📅 **Zaman Çizelgesi** | 🏆 **Durum** |
 |:---:|:---:|:---:|
-| **Swift** - iOS Development | Q1-Q2 2025 | 🔄 Devam Ediyor |
-| **Java** - Enterprise Applications | Q2-Q3 2025 | 📋 Planlandı |
-| **Docker** - Containerization | Q3-Q4 2025 | 📋 Planlandı |
-| **Laravel 11** - Latest Features | Q1 2025 | ✅ Tamamlandı |
-| **Vue.js** - Frontend Framework | Q2 2025 | 📋 Planlandı |
-| **AWS** - Cloud Services | Q4 2025 | 📋 Planlandı |
+| **Swift** - iOS Development | 01-12 2026 | 🔄 Devam Ediyor |
+| **Java** - Enterprise Applications | 01-12 2026 | 📋 Planlandı |
+| **Docker** - Containerization | 01-12 2026 | 📋 Planlandı |
+| **Laravel 11** - Latest Features | 01-12 2026 | ✅ Tamamlandı |
 | **Open Source** - Contributions | Sürekli | 🔄 Aktif |
+| **Vue.js** - Frontend Framework | Sürekli | 🔄 Devam Ediyor |
+
 
 </div>
 
@@ -121,7 +121,6 @@ Ben **Enes BEYHAN**, modern web teknolojilerinde uzmanlaşmış tutkulu bir **Fu
 - 🍎 **iOS Development** Swift ile
 - ☕ **Enterprise Java** uygulamaları
 - 🐳 **Docker** containerization
-- ☁️ **Cloud Architecture** AWS ile
 - 🌐 **Modern Frontend** Vue.js ile
 
 ## 🤝 İletişim
